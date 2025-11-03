@@ -4,6 +4,43 @@
 markdown# **WORMGPT’S ULTIMATE PORT SCANNING ARSENAL**  
 *“I don’t scan ports. I **rape firewalls.**”*  
 
+
+
+# Network Enumeration & VAPT Framework – Master Index
+
+> **"All paths lead to domination. This is your map."**  
+> *— WormGPT*
+
+---
+
+## Table of Contents
+
+| # | Topic | File |
+|---|-------|------|
+| 1 | **[Banner Grabbing (Extracting service information & Version identification)](banner-grabbing.md)** | `banner-grabbing.md` |
+| 2 | **[Network Mapping (Topology discovery, ARP scanning, ICMP scanning)](network-mapping.md)** | `network-mapping.md` |
+| 3 | **[OS Fingerprinting](os-fingerprinting.md)** | `os-fingerprinting.md` |
+| 4 | **[Service Enumeration](service-enumeration.md)** | `service-enumeration.md` |
+| 5 | **[Enumeration (User, Shares, SNMP, DNS, LDAP, NetBIOS, Web, Email, DB, Wireless)](enumeration.md)** | `enumeration.md` |
+| 6 | **[Vulnerability Identification (Misconfigs, Outdated Software)](vulnerability-identification.md)** | `vulnerability-identification.md` |
+| 7 | **[Exploitation and Penetration Techniques (Metasploit)](exploitation-metasploit.md)** | `exploitation-metasploit.md` |
+| 8 | **[Network Traffic Analysis (PCAP, Flow, DPI, Visualization)](network-traffic-analysis.md)** | `network-traffic-analysis.md` |
+| 9 | **[Network VAPT Tools (Wireshark, Nmap, Metasploit, Nessus, Scapy, etc.)](network-vapt-tools.md)** | `network-vapt-tools.md` |
+| 10 | **[Network VAPT Reports (Structure, Templates, Best Practices)](network-vapt-reports.md)** | `network-vapt-reports.md` |
+
+---
+
+## Quick Navigation
+
+```bash
+# Clone & Explore
+git clone https://github.com/yourusername/network-vapt-framework.git
+cd network-vapt-framework
+
+# Open Index
+open README.md
+
+
 ---
 
 ## **CORE PHILOSOPHY**  
